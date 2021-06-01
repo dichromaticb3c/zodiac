@@ -2,3 +2,6 @@ body{
 background-image: url("../zodiac/imgs/zodiacbackground.jpg");
 color:azure    
 }
+.header-wrapper {
+border-bottom: 20 pc solid 
+}
