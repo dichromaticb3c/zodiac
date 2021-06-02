@@ -2,7 +2,7 @@ body{
 background-image: url("../zodiac/imgs/zodiacbackground.jpg");
 color:azure    
 }
-.header-wrapper {
-    display: flex;
-border-bottom: 20 pc solid; 
+.main-nav {
+display: flex;
+align-items:center; 
 }
