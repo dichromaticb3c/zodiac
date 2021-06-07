@@ -1,8 +1,17 @@
 body{
 background-image: url("../zodiac/imgs/zodiacbackground.jpg");
-color:azure    
+color:aliceblue; 
 }
 .main-nav {
 display: flex;
-align-items:center; 
+height: 50px;
+justify-content: space-around;
+align-items:center;
+border: solid 2px;
+color: rgb(240, 255, 243);
+}
+a:link {
+color:rgb(23, 15, 133);
+background-color:azure;
+padding: 1em 1.5em ;
 }
